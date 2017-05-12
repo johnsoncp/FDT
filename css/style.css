@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+    background-color: cyan;
+    font-size: 26px;
+    text-align: center;
+    height: 40px;
+}
+
+h2{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    text-indent: 20px;
+}
+
+p{
+    color: gray;
+}
+
+.menu_btn{
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+
+#main{
+    width: 90%
+}
+
+#customer{
+    float: left;
+    width: 40%;
+    display: inline-block;
+}
+
+#queue{
+    float: right;
+    width: 50%;
+    display: inline-block;
+}
